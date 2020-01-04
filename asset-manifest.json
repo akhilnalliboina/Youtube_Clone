@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Youtube_Clone/npm%20run%20deploy/static/js/main.a2cd9a1a.chunk.js",
-    "main.js.map": "/Youtube_Clone/npm%20run%20deploy/static/js/main.a2cd9a1a.chunk.js.map",
-    "runtime-main.js": "/Youtube_Clone/npm%20run%20deploy/static/js/runtime-main.0ff585b6.js",
-    "runtime-main.js.map": "/Youtube_Clone/npm%20run%20deploy/static/js/runtime-main.0ff585b6.js.map",
-    "static/js/2.901162b9.chunk.js": "/Youtube_Clone/npm%20run%20deploy/static/js/2.901162b9.chunk.js",
-    "static/js/2.901162b9.chunk.js.map": "/Youtube_Clone/npm%20run%20deploy/static/js/2.901162b9.chunk.js.map",
-    "index.html": "/Youtube_Clone/npm%20run%20deploy/index.html",
-    "precache-manifest.190d1459df0dcc766cdd03c5ad4b4425.js": "/Youtube_Clone/npm%20run%20deploy/precache-manifest.190d1459df0dcc766cdd03c5ad4b4425.js",
-    "service-worker.js": "/Youtube_Clone/npm%20run%20deploy/service-worker.js",
-    "static/js/2.901162b9.chunk.js.LICENSE": "/Youtube_Clone/npm%20run%20deploy/static/js/2.901162b9.chunk.js.LICENSE"
+    "main.js": "/Youtube_Clone/static/js/main.a2cd9a1a.chunk.js",
+    "main.js.map": "/Youtube_Clone/static/js/main.a2cd9a1a.chunk.js.map",
+    "runtime-main.js": "/Youtube_Clone/static/js/runtime-main.7f23b491.js",
+    "runtime-main.js.map": "/Youtube_Clone/static/js/runtime-main.7f23b491.js.map",
+    "static/js/2.901162b9.chunk.js": "/Youtube_Clone/static/js/2.901162b9.chunk.js",
+    "static/js/2.901162b9.chunk.js.map": "/Youtube_Clone/static/js/2.901162b9.chunk.js.map",
+    "index.html": "/Youtube_Clone/index.html",
+    "precache-manifest.5f4c8c894cc3d98620edf6f8563070ee.js": "/Youtube_Clone/precache-manifest.5f4c8c894cc3d98620edf6f8563070ee.js",
+    "service-worker.js": "/Youtube_Clone/service-worker.js",
+    "static/js/2.901162b9.chunk.js.LICENSE": "/Youtube_Clone/static/js/2.901162b9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ff585b6.js",
+    "static/js/runtime-main.7f23b491.js",
     "static/js/2.901162b9.chunk.js",
     "static/js/main.a2cd9a1a.chunk.js"
   ]
